@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pedM5ZjV9gHUewYPHViYSYtxC88Ktw0RMHKLbui2ti5qjtD0KC9cTEcmZVN2rwPsqR02RWaqgYNXAmqwW50CIw==",
+  "dgSpecHash": "eXIPA7vTUZ5stAxsZqcdBqtdRBVk9o3U1vAyDPaaDOoaV6hW0Uvevv8MJzcTQkr+DzcTTjLlsrypll7Qy8WIiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nokks\\Desktop\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+  "projectFilePath": "C:\\Users\\v.kotov\\Desktop\\HelloConsole\\HelloConsole\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
