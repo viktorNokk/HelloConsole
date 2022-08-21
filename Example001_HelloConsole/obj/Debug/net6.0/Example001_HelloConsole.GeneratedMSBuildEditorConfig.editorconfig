@@ -7,4 +7,8 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Example001_HelloConsole
+<<<<<<< HEAD
+build_property.ProjectDir = c:\Users\v.kotov\Desktop\HelloConsole\HelloConsole\Example001_HelloConsole\
+=======
 build_property.ProjectDir = c:\Users\nokks\Desktop\Examples\Example001_HelloConsole\
+>>>>>>> e43472e9e4c32d0d2bbccba8378ab0e840d4d211
